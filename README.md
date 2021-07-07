@@ -1,1 +1,0 @@
-# wyzetalk-react-app
