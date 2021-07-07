@@ -8,6 +8,6 @@ In the project directory, you can run to install the dependencies:
 
 ### `npm install` 
 
-To run the app on http://localhost:300
+To run the app on http://localhost:3000
 
 ### `npm start`
