@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run to install the dependencies:
 
-### `npm install`
+### `npm install` 
 
 To run the app on http://localhost:300
 
